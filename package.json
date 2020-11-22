@@ -4,7 +4,7 @@
     "description": "NodeJS + MySQL API for Email Sign Up with Verification, Authentication & Forgot Password",
     "license": "",
     "repository": {
-        "type": "git",
+        "type": "",
         "url": ""
     },
     "scripts": {
